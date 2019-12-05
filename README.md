@@ -1,2 +1,1 @@
-# mynewrepo1
-# mynewrepo3
+# newrepo
